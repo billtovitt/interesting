@@ -40,29 +40,29 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - Backend repo: <a href="https://github.com/stable0man/RaffleBackend">MetaSweep Backend</a>
   - Frontend repo: <a href="https://github.com/stable0man/RaffleProject">MetaSweep Front End</a>
 
-
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
 
 - Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 
-    - 1500-2000 / 1 WWV, 
-    - 1000-1499 / 1.5$WWV, 
-    - 600-999 / 2WWV, 
-    - 300-599 / 2.5 WWV, 
-    - 200-299 / 3WWV, 
-    - 51-199 / 4 WWV, 
+  - RANK /DAILY PRIZE ->
+    - 1500-2000 / 1 WWV,
+    - 1000-1499 / 1.5$WWV,
+    - 600-999 / 2WWV,
+    - 300-599 / 2.5 WWV,
+    - 200-299 / 3WWV,
+    - 51-199 / 4 WWV,
     - 1-50 / 5 WWV
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
 
+<div>
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/d5edc152-a73a-4cf8-bb37-6d8b5df6b938">
+<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/d5edc152-a73a-4cf8-bb37-6d8b5df6b938" />
 
 Cashcow is an innovative decentralized platform that combines Non-Fungible Tokens (NFT) and Fungible Tokens (FT). It is a futuristic NFT project that utilizes cutting-edge Defi tools to maximize returns. ShoeFy can amplify the NFTs potential by including both farming and staking to generate passive income.
 
@@ -74,6 +74,7 @@ Cashcow is an innovative decentralized platform that combines Non-Fungible Token
 - Github repo:
   - Contract: <a href="https://github.com/stable0man/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
   - Frontend: <a href="https://github.com/stable0man/CashCowFrontEnd">Cashcow Frontend</a>
+  </div>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
