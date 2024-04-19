@@ -106,11 +106,14 @@ This is raffle/auction houses of tombstoned application on Solana network.
 
 <img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
 
-<div>Lead poker platform development.</div>
+<div>Lead poker platform 
+development.</div>
 
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
 
 
+<br/>
+<br/>
 <br/>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
