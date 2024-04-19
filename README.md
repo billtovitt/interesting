@@ -58,7 +58,8 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
 
-<div>
+<br/>
+
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
 <hr />
 
@@ -74,7 +75,9 @@ Cashcow is an innovative decentralized platform that combines Non-Fungible Token
 - Github repo:
   - Contract: <a href="https://github.com/stable0man/CashCowBackEnd-Solidity-">Cashcow Smart Contract</a>
   - Frontend: <a href="https://github.com/stable0man/CashCowFrontEnd">Cashcow Frontend</a>
-  </div>
+
+
+<br/>
 
 <h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -95,6 +98,9 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
 
+
+<br/>
+
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -103,6 +109,9 @@ This is raffle/auction houses of tombstoned application on Solana network.
 <div>Lead poker platform development.</div>
 
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
+
+
+<br/>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -114,6 +123,9 @@ Spritebox is a minting platform that pixel artists can send there arts every wee
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
+
+
+<br/>
 
 <h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -127,6 +139,9 @@ I built backend & smart contract as well as supported web3 integration to front-
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 
+
+<br/>
+
 <h3><u><strong><i>Soblin staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -136,6 +151,9 @@ This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Sol
 I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
+
+
+<br/>
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -148,6 +166,9 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 
+
+<br/>
+
 <h3><u><strong><i>CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -159,6 +180,9 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 <div>Hosted to plesk</div>
 
 - Live: <a href="https://flip.baby">ATOZ CoinFlip</a>
+
+
+<br/>
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
@@ -177,6 +201,9 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 - Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
 - Mainnet deployed contract address: <a href="">Mainnet contract</a>
 
+
+<br/>
+
 <h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -192,6 +219,9 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
     - Users can burn nft has no metadata.
 - $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
+
+
+<br/>
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -220,6 +250,9 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 
+
+<br/>
+
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -233,6 +266,9 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
+
+
+<br/>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -254,6 +290,9 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
   - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
   - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
   - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
+
+
+<br/>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
