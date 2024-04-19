@@ -1,4 +1,4 @@
-# <i>Come here and have a look me!</i>
+# <i>Come to me and have a look</i>
 
 - As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 - Additionally top rated in igaming, casino, gambling platform building
@@ -58,27 +58,6 @@ A kind of NFT & ETH Raffle project. Users enter raffle and buy tickets on Etheru
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
-<hr />
-
-This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/f68090fc-a383-4bea-8bdd-e5c2451e59e4">
-
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/stable0man/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/stable0man/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/stable0man/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
 
 <h3><u><strong><i>CashCow Protocol</i></strong></u> &nbsp;(Binance)</h3>
 <hr />
