@@ -1,4 +1,4 @@
-# <i>Come to me and have a look</i>
+![Digimonkz](https://github.com/user-attachments/assets/c9d1cc5f-6708-462a-a482-adbe63b3b8fb)# <i>Come to me and have a look</i>
 
 - As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 - Additionally top rated in igaming, casino, gambling platform building
@@ -17,6 +17,119 @@ The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin upd
 
 <br/>
 
+<h3><u><strong><i>BTC Pumpfun</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/c748edab-d28b-4289-acca-1e3dac2f15bd">
+
+NFT Mint Project : 15% of the mint cost is shared with NFT holders.
+
+- Required Skills: Bitcoinjs-lib, Runelib, Bitcoin, Socket
+- Live: <a href="http://65.21.21.179:3000/">BTC Pumpfun</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/btc-pumpfun">Pumpfun Code</a>
+
+<br/>
+
+<h3><u><strong><i>Covault</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/666d968c-2ffc-483e-935f-03c1cef0e90f">
+
+Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
+
+- Required Skills: NextJs, Bitcoinjs-lib, Multisig Wallet, Runelib
+- Live: <a href="https://covault.xyz/">Covault</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/covault">Covault Code</a>
+
+<br/>
+
+<h3><u><strong><i>DexOrdi</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/9188eb73-e43a-4f97-b098-ad23bd974409">
+
+DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network.
+
+- Required Skills: Blockchain, Bitcoin, NodeJs, Bitcoinjs-lib, Ordinals
+- Live: <a href="https://dexordi.com/">DexOrdi</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/dexordi">DexOrdi Code</a>
+
+<br/>
+
+<h3><u><strong><i>Digimonkz</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/a449fbff-50bf-4518-a32b-9c1d49d5d57f">
+
+
+DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking.
+
+- Required Skills: EVM, Smart Contract, Solidity, Nodejs, ReactJs
+- Live: <a href="https://digimonkz.com/">Digimonkz</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/dog-of-bitcoin">Digimonkz Code</a>
+
+<br/>
+
+<h3><u><strong><i>$DOG of bitcoin</i></strong></u> &nbsp;(Bitcoin, Ordinals)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/dbad00da-9b79-4f8a-8c90-d9dd43c4c0f5">
+
+Launched Collection into the Magic Eden and made our own Plushies.
+
+- Required Skills: NextJs, TailwindCSS, Bitcoinjs-lib, RuneLib, X integration
+- Live: <a href="https://dogofbitcoin.com/">$DOG of bitcoin</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/dog-of-bitcoin">$DOG Code</a>
+
+<br/>
+
+<h3><u><strong><i>Galactic Kingdom</i></strong></u> &nbsp;(Bitcoin, Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/3404d447-1ee4-4bad-a8af-ed676ba73c6e">
+
+I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies.
+
+- Required Skills: Bitcoin, Bitcoinjs-lib, Nodejs, ReactJs, Web3
+- Live: <a href="https://www.galactickingdom.io/">Galactic Kingdom</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/galatic-kingdom">Galactic Code</a>
+
+<br/>
+
+<h3><u><strong><i>Hikari Swap</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/890aa11c-0c02-4033-a796-1a75ccbf99c0">
+
+HikariSwap is a product released from Hikari Labs that allows project founders, whales, and everyone in between to execute trades in dark pools and lit markets to prevent unneccsary slippage on their transaction.
+
+- Required Skills: Reactjs, TailwindCss, UniswapV2, Axios, NodeJs
+- Live: <a href="https://hikari-trade.vercel.app/">Hikari Swap</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/hikari-swap">Hikari Code</a>
+
+<br/>
+
+<h3><u><strong><i>Ordinal Raffle</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/7152fba4-c3d1-4de3-977c-923147ce5db7">
+
+I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
+
+- Required Skills: Blockchain, Bitcoin, Bitcoinjs-lib, Runelib, Typescript, TailwindCss, NextJs, Web3
+- Live: <a href="https://satoshipunks.art/">Ordinal Raffle</a>
+- Github repos:
+  - Repo: <a href="https://github.com/billtovitt/ordinal-raffle">Raffle Code</a>
+
+<br/>
+
 <h3><u><strong><i>Aviator Crash</i></strong></u> &nbsp;(Full Stack)</h3>
 <hr />
 
@@ -31,122 +144,10 @@ Aviator is an innovative crash game where players place bets on a plane’s asce
 
 <br/>
 
-<h3><u><strong><i>BTC Pumpfun</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-NFT Mint Project : 15% of the mint cost is shared with NFT holders.
-
-- Required Skills: Bitcoinjs-lib, Runelib, Bitcoin, Socket
-- Live: <a href="http://65.21.21.179:3000/">BTC Pumpfun</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/btc-pumpfun">Pumpfun Code</a>
-
-<br/>
-
-<h3><u><strong><i>Covault</i></strong></u> &nbsp;(Bitcoin, Multisig Wallet)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
-
-- Required Skills: NextJs, Bitcoinjs-lib, Multisig Wallet, Runelib
-- Live: <a href="https://covault.xyz/">Covault</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/covault">Covault Code</a>
-
-<br/>
-
-<h3><u><strong><i>DexOrdi</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network.
-
-- Required Skills: Blockchain, Bitcoin, NodeJs, Bitcoinjs-lib, Ordinals
-- Live: <a href="https://dexordi.com/">DexOrdi</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/dexordi">DexOrdi Code</a>
-
-<br/>
-
-<h3><u><strong><i>Digimonkz</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-DigiMonkz is a leading Web3 Wellness NFT collection on the Ethereum blockchain, offering users the ability to mint GEN1 or GEN2 NFTs and earn artifacts through staking.
-
-- Required Skills: EVM, Smart Contract, Solidity, Nodejs, ReactJs
-- Live: <a href="https://digimonkz.com/">Digimonkz</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/dog-of-bitcoin">Digimonkz Code</a>
-
-<br/>
-
-<h3><u><strong><i>$DOG of bitcoin</i></strong></u> &nbsp;(Bitcoin, Ordinals)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-Launched Collection into the Magic Eden and made our own Plushies.
-
-- Required Skills: NextJs, TailwindCSS, Bitcoinjs-lib, RuneLib, X integration
-- Live: <a href="https://dogofbitcoin.com/">$DOG of bitcoin</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/dog-of-bitcoin">$DOG Code</a>
-
-<br/>
-
-<h3><u><strong><i>Galactic Kingdom</i></strong></u> &nbsp;(Bitcoin, Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies.
-
-- Required Skills: Bitcoin, Bitcoinjs-lib, Nodejs, ReactJs, Web3
-- Live: <a href="https://www.galactickingdom.io/">Galactic Kingdom</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/galatic-kingdom">Galactic Code</a>
-
-<br/>
-
-<h3><u><strong><i>Hikari Swap</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-HikariSwap is a product released from Hikari Labs that allows project founders, whales, and everyone in between to execute trades in dark pools and lit markets to prevent unneccsary slippage on their transaction.
-
-- Required Skills: Reactjs, TailwindCss, UniswapV2, Axios, NodeJs
-- Live: <a href="https://hikari-trade.vercel.app/">Hikari Swap</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/hikari-swap">Hikari Code</a>
-
-<br/>
-
-<h3><u><strong><i>Ordinal Raffle</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
-
-I developed the front end of the Ordinal Raffle project using React and the backend with Node.js. Users can enter the raffle by sending 1000 PSAT per ticket to the deposit address. Winners receive the inscription, while losers forfeit their entry fee, which is non-refundable
-
-- Required Skills: Blockchain, Bitcoin, Bitcoinjs-lib, Runelib, Typescript, TailwindCss, NextJs, Web3
-- Live: <a href="https://satoshipunks.art/">Ordinal Raffle</a>
-- Github repos:
-  - Repo: <a href="https://github.com/billtovitt/ordinal-raffle">Raffle Code</a>
-
-<br/>
-
 <h3><u><strong><i>Thog Staking</i></strong></u> &nbsp;(Solana, Program)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/81a668f2-8321-461b-9fbb-efcb7dcdfcba">
 
 Normal NFT Staking Contract using Anchor on Solana.
 
@@ -159,7 +160,7 @@ Normal NFT Staking Contract using Anchor on Solana.
 <h3><u><strong><i>2omb 3omb Finance</i></strong></u> &nbsp;(EVM, Polygon)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/f1a4710c-ae8d-414d-ad31-ac5f16ceb5a0">
 
 Built the payment system in this 2omb, 3omb finance, It is for web3 token transfer and distribute multi tokens to the multi users in EVM
 
@@ -173,7 +174,7 @@ Built the payment system in this 2omb, 3omb finance, It is for web3 token transf
 <h3><u><strong><i>ThreeD Car Rendering</i></strong></u> &nbsp;(Full Stack, ThreeJs)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/b157b8d4-1c67-4107-9b51-d0b3bb5cc0bb">
 
 3D Car Rendering using ThreeJs. Built ThreeJs Model and rendered on the project. ( email: charles@gmail.com, password: charles )
 
@@ -187,7 +188,7 @@ Built the payment system in this 2omb, 3omb finance, It is for web3 token transf
 <h3><u><strong><i>Aptos Raffle</i></strong></u> &nbsp;(Aptos Network)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/ad4ce395-9f28-4da6-adeb-56bee0c3592e">
 
 Aptos Raffle Project which the users can create raffle and join raffle on Aptos network
 
