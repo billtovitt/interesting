@@ -6,7 +6,7 @@
 <h3><u><strong><i>Asigna Multisig</i></strong></u> &nbsp;(Bitcoin, Multisig)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/a4bfe6f4-dcb5-4444-97ab-b4de01112c86">
 
 The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.
 
@@ -20,7 +20,7 @@ The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin upd
 <h3><u><strong><i>Aviator Crash</i></strong></u> &nbsp;(Full Stack)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/stable0man/interesting/assets/103976145/7a3dd3bd-f28d-40ac-b349-3ce586e6f5c9">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/074adb60-4b82-4d2c-b226-d97088d7a3a9">
 
 Aviator is an innovative crash game where players place bets on a plane’s ascent, aiming to cash out before it flies away. The game’s features like provably fair and real-time live bet display quickly made this game a smash hit with the online casino community.
 
