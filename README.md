@@ -1,3 +1,4 @@
+![Dogofbitcoin](https://github.com/user-attachments/assets/406653aa-1ab2-44a3-91dc-ecbbe99563ef)
 # <i>Come to me and have a look</i>
 
 - As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
