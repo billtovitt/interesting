@@ -1,4 +1,4 @@
-![Digimonkz](https://github.com/user-attachments/assets/c9d1cc5f-6708-462a-a482-adbe63b3b8fb)# <i>Come to me and have a look</i>
+# <i>Come to me and have a look</i>
 
 - As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 - Additionally top rated in igaming, casino, gambling platform building
