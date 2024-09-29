@@ -37,7 +37,7 @@ NFT Mint Project : 15% of the mint cost is shared with NFT holders.
 
 <img align="right" width="300px" src="https://github.com/user-attachments/assets/666d968c-2ffc-483e-935f-03c1cef0e90f">
 
-Worked as CTO, Lead Dev built multi sig wallet with my talented skill set
+Worked as Core Developer built multi sig wallet with my talented skill set
 
 - Required Skills: NextJs, Bitcoinjs-lib, Multisig Wallet, Runelib
 - Live: <a href="https://covault.xyz/">Covault</a>
